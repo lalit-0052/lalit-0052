@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Machine+Learning+Developer;NLP+%26+Generative+AI+Enthusiast;Agentic+AI+Builder;Python+Developer;AI+%7C+Analytics+%7C+Automation&center=true&width=700&height=45">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 </p>
 
 ---
