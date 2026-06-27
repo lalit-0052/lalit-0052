@@ -3,7 +3,7 @@
 <h3 align="center">Data Science and Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Machine+Learning+Developer;NLP+%26+Generative+AI+Enthusiast;Agentic+AI+Builder;Python+Developer;AI+%7C+Analytics+%7C+Automation&center=true&width=700&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Machine+Learning+Developer;Generative+AI+Enthusiast;Agentic+AI+Builder;Python+Developer;AI+%7C+Analytics+%7C+Automation&center=true&width=700&height=45" />
 </p>
 
 <p align="center">
